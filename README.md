@@ -83,6 +83,7 @@ Then open the provided local URL in your browser.
 4. **Indexing** — Stores embeddings in FAISS for efficient retrieval.  
 5. **Query Processing** — Fetches relevant chunks and generates a GPT-based response.
 
+<!-- 
 ---
 
 ## 🚀 Future Improvements
@@ -94,3 +95,4 @@ Then open the provided local URL in your browser.
 - Streamlit dashboard for analytics  
 
 ---
+-->
