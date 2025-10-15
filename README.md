@@ -5,6 +5,14 @@ Upload your PDFs, Word, Text, or PowerPoint files — and chat with your data in
 
 ---
 
+## 📘 Technical Documentation
+
+A detailed step-by-step explanation of the application’s design, logic, and architecture can be found in the file:  
+📄 **AI Data Assistant.docx**
+
+---
+
+
 ## 🌟 Features
 
 - 📂 **Multi-format document support** — PDF, DOCX, TXT, PPTX  
